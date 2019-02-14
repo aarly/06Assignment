@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	string textToAnalyze;
+	string textToAnalyze; 
 	int foo = 0;
 	int vowels = 0;
 	int consonants = 0;
